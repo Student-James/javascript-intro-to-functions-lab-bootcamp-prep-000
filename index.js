@@ -14,7 +14,11 @@ console.log ("HELLO")
     console.log ("hello")
   }
   
+  var uppercase = "HELLO"
+  var lowercase = "hello"
+  
   function sayHiToGrandma(string){
     
-    if lowercase
+    
+    
   }
