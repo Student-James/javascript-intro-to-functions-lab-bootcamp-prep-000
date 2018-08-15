@@ -20,7 +20,7 @@ console.log ("HELLO")
   
   var lowercase = "hello"
   
-  
+  lowercase.toLowerCase() === lowercase
   
   function sayHiToGrandma(string){
     
