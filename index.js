@@ -19,6 +19,7 @@ console.log ("HELLO")
   
   function sayHiToGrandma(string){
     
+    if (lowercase)
     
     
   }
