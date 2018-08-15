@@ -23,5 +23,5 @@ console.log ("HELLO")
     { console.log ("I can\'t hear you!") }
     
     else (uppercase)
-    { console.log ("YES INDEED!")
+    { console.log ("YES INDEED!") }
   }
