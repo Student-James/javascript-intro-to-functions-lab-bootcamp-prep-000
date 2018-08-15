@@ -23,7 +23,7 @@ console.log ("HELLO")
     
     if  (lowercase.toLowerCase() === lowercase)
     { return ("I can\'t hear you!") }
-    else if (uppercase.toUpperCase() === uppercase)
+    else if (uppercase.toUpperCase() === uppercase // true)
     { return ("YES INDEED!") }
     else ("I love you, Grandma.")
     {return ("I love you, too.")}
