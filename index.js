@@ -19,7 +19,7 @@ console.log ("HELLO")
   
   var lowercase = "hello"
  
- function sayHiToGrandma(string){
+  function sayHiToGrandma(string) {
     
     if  (lowercase.toLowerCase() === lowercase)
     { return ("I can\'t hear you!") }
