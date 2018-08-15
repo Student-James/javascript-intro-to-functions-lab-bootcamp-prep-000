@@ -14,4 +14,7 @@ console.log ("HELLO")
     console.log ("hello")
   }
   
-  function 
+  function sayHiToGrandma(string){
+    
+    if
+  }
