@@ -26,5 +26,5 @@ console.log ("HELLO")
     else if (uppercase.toUpperCase() === uppercase)
     { return ("YES INDEED!") }
     else ("I love you, Grandma.")
-    {return ()
+    {return ("I love you, too.")
   }
